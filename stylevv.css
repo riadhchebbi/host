@@ -9,7 +9,7 @@ img{
 	border: none;	
 }
 #template_holder {
-    background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/shared_background.gif") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("shared_background.gif") no-repeat scroll 0 0;
 }
 .wrapper{
     background-color: #fff;
@@ -25,7 +25,7 @@ header .wrapper {
     margin: 2.5% 0;
 }
 nav {
-    background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/nav_bg.gif") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("nav_bg.gif") no-repeat scroll 0 0;
     min-height: 36px;
 }
 .menu {
@@ -47,7 +47,7 @@ nav {
 }
 .hjjjjj
 {
- background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/h_bg.gif") no-repeat scroll 0 0 / 100% auto;
+ background: rgba(0, 0, 0, 0) url("h_bg.gif") no-repeat scroll 0 0 / 100% auto;
     color: #fff;
 	}
 .title h2 {
@@ -72,7 +72,7 @@ nav {
     margin-top: 1%;
 }
 .des > h2,.tabs > section > h2{
-    background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/h_bg.gif") no-repeat scroll 0 0 / 100% 100%;
+    background: rgba(0, 0, 0, 0) url("h_bg.gif") no-repeat scroll 0 0 / 100% 100%;
     color: #fff;
     padding-left: 1%;
 }
@@ -93,7 +93,7 @@ nav {
 }
 
 .tabs label {
-    background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/template_tabout.gif") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("template_tabout.gif") no-repeat scroll 0 0;
     border: 1px solid transparent;
     color: #000;
     display: inline-block;
@@ -108,7 +108,7 @@ nav {
 }
 
 .tabs input:checked + label {
-    background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/template_tabover.gif") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("template_tabover.gif") no-repeat scroll 0 0;
     border-bottom: 1px solid #fff;
     color: #fff;
 }
@@ -120,7 +120,7 @@ nav {
   display: block;
 }
 .content > h2 {
-    background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/h_bg.gif") no-repeat scroll 0 0 / 100% 100%;
+    background: rgba(0, 0, 0, 0) url("h_bg.gif") no-repeat scroll 0 0 / 100% 100%;
     color: #fff;
     padding-left: 1%;
 }
@@ -129,6 +129,6 @@ nav {
     padding: 1%;
 }
 footer {
-    background: rgba(0, 0, 0, 0) url("https://www.vivianpic.com/images/shared_footer.jpg") no-repeat scroll center top;
+    background: rgba(0, 0, 0, 0) url("shared_footer.jpg") no-repeat scroll center top;
     height: 110px;
 }
